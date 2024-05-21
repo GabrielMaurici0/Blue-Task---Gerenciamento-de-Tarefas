@@ -1,0 +1,18 @@
+{
+  "name": "blue-task---gerenciamento-de-tarefas",
+  "version": "1.0.0",
+  "description": "No atual cenário academico e organizacional que me encontro, onde o mesmo exige muita demanda de eficiencia de minha parte e o gerenciamento eficaz de tarefas tornou-se algo essencial para o sucesso na conclusão de trabalhos e estudos. A capacidade de planejar, organizar, acompanhar e coordenar atividades de forma estruturada e eficiente é um diferencial importante para alcançar resultados positivos e o atingir metas estabelecidas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.3"
+  }
+}
